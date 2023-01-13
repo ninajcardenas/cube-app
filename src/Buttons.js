@@ -2,11 +2,12 @@ import {styled} from "@stitches/react";
 
 
 export const BaseButton =styled('button',{
+    display: 'flex',
     backgroundColor: 'white',
     borderRadius: '9999px',
     fontSize: '13px',
     border: '0',
-    padding: '1.5vh 1.5vw',
+    padding: '1.5vh 2vw',
     margin: '10px',
     marginRight: '5px',
 
@@ -21,7 +22,6 @@ export const BaseDiv = styled('div',{
     margin: 'auto',
     display: "flex",
     position: "absolute",
-    top: "50%",
     left: '50%',
     transform: 'translate(-50%, -50%)',
     top: '90%',
