@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cube-app/static/css/main.e5e48fef.css",
+    "main.js": "/cube-app/static/js/main.99efca7f.js",
+    "static/js/787.cb799c87.chunk.js": "/cube-app/static/js/787.cb799c87.chunk.js",
+    "static/media/vention-logo.svg": "/cube-app/static/media/vention-logo.1877b83f0cc570f75c65af3067ea9775.svg",
+    "index.html": "/cube-app/index.html",
+    "main.e5e48fef.css.map": "/cube-app/static/css/main.e5e48fef.css.map",
+    "main.99efca7f.js.map": "/cube-app/static/js/main.99efca7f.js.map",
+    "787.cb799c87.chunk.js.map": "/cube-app/static/js/787.cb799c87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5e48fef.css",
+    "static/js/main.99efca7f.js"
+  ]
+}
