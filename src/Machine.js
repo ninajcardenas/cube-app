@@ -1,5 +1,4 @@
 import {createMachine, assign} from "xstate";
-import {respond} from "xstate/es/actions";
 
 const updateDistance = assign({
     distance: (context, event) => parseInt(event.data)

@@ -48,6 +48,7 @@ const CommandOptions = () => {
     };
 
     return (
+        <div>
         <BaseDiv>
             <Logo />
 
@@ -136,6 +137,7 @@ const CommandOptions = () => {
             </div>
             <BaseButton onClick={() => service.send('RESET')}>Reset</BaseButton>
         </BaseDiv>
+        </div>
     );
 };
 
@@ -177,7 +179,7 @@ function Box(props) {
                 scaleBox(ref,state.context.scale);
             }
         });  return subscription.unsubscribe;
-    }, [service]); // note: service should never change
+    }); // note: service should never change
   return (
       <mesh ref={ref} {...props} >
         <boxGeometry attach="geometry" />
