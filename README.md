@@ -1,63 +1,51 @@
-# Cube App
+<div align="center">
 
-Author: Nina Cardenas
+![Vention](https://mma.prnewswire.com/media/1925111/Vention_Vention_announces_MachineCloud__the_first_of_its_kind_so.jpg?p=facebook)
+# 3D Cube Application
 
-Company: Vention
+
+[About](#about) •
+[Frameworks & Libraries](#frameworks-and-libraries) •
+[Installation](#installation) •
+[Usage Instructions](#instructions) •
+[Commands](#commands) •
+[Project Status](#project-status)
 
 
-## Introduction
+## About
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
+Made by Nina Cardenas following the instruction guide provided by Vention. 
 
-### Libraries
+### Frameworks and Libraries
 
 Three.js\
 react-three-fiber\
 drei\
 xstate\
-Material-UI\
+Material-UI
 
 
+## Installation
 
-## Initialization
+</div>
 
 ### Run local
-In the project directory, you can run:
-
-### `npm start`
+In a Terminal window, run the following commands:
+````
+git clone https://github.com/ninajcardenas/cube-app
+cd cube-app
+npm install
+npm start
+````
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### Testing 
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<div align="center">
 
 ## Instructions
 
+</div>
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
