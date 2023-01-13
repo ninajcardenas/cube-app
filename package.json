@@ -1,13 +1,12 @@
 {
   "name": "cube-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
     "@mui/base": "^5.0.0-alpha.113",
     "@mui/material": "^5.11.4",
-    "@react-spring/web": "^9.6.1",
     "@react-three/drei": "^9.51.22",
     "@react-three/fiber": "^8.10.0",
     "@stitches/react": "^1.2.8",
