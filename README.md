@@ -82,3 +82,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 - [ ] Add intro page
 - [ ] Add Transform control visual helpers for commands
   - [ ] Integrate it with XState
+- [ ] Optional: add CubeViewer (similar to Autocad)
