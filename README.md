@@ -80,6 +80,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 - [x] Add README.md
 - [ ] Add 3D animations of cube for each command
 - [ ] Add intro page
-- [ ] Add Transform control visual helpers for commands
-  - [ ] Integrate it with XState
+- [ ] Add TransformControls visual helpers for commands
+  - [ ] Integrate with XState
 - [ ] Optional: add CubeViewer (similar to Autocad)
